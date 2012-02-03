@@ -1,0 +1,10 @@
+D:\project\C#_test\DesignPattern\ChainOfResponsibility\ChainOfResponsibility\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\project\C#_test\DesignPattern\ChainOfResponsibility\ChainOfResponsibility\obj\x86\Debug\DesignPatterns.Properties.Resources.resources
+D:\project\C#_test\DesignPattern\ChainOfResponsibility\ChainOfResponsibility\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\project\C#_test\DesignPattern\ChainOfResponsibility\ChainOfResponsibility\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\project\C#_test\DesignPattern\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.pdb
+D:\project\C#_test\DesignPattern\ChainOfResponsibility\ChainOfResponsibility\obj\x86\Debug\ChainOfResponsibility.pdb
+D:\project\C#_test\DesignPattern\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.dll
+D:\project\C#_test\DesignPattern\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\nunit.framework.dll
+D:\project\C#_test\DesignPattern\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\nunit.framework.xml
+D:\project\C#_test\DesignPattern\ChainOfResponsibility\ChainOfResponsibility\obj\x86\Debug\ChainOfResponsibility.dll
