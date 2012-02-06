@@ -61,6 +61,15 @@
     <Compile Include="Command\ConcreateCommand.cs" />
     <Compile Include="Command\Receiver.cs" />
     <Compile Include="Command\UndoCommand.cs" />
+    <Compile Include="Interpreter\AbstractExpression.cs" />
+    <Compile Include="Interpreter\Context.cs" />
+    <Compile Include="Interpreter\InterpreterTest.cs" />
+    <Compile Include="Interpreter\NonterminalExpression.cs" />
+    <Compile Include="Interpreter\TerminalExpression.cs" />
+    <Compile Include="Iterator\Iterator.cs" />
+    <Compile Include="Iterator\IteretorTest.cs" />
+    <Compile Include="Iterator\PostIterator.cs" />
+    <Compile Include="Iterator\PreIterator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -81,6 +90,7 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

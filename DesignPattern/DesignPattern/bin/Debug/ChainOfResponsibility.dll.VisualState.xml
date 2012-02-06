@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
-  <TopNode>[0-1004]D:\project\C#_test\DesignPattern\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.dll</TopNode>
-  <SelectedNode>[0-1006]DesignPatterns.HainOfResponsibility</SelectedNode>
+  <TopNode>[0-1008]D:\project\C#_test\DesignPattern\DesignPattern\DesignPattern\bin\Debug\ChainOfResponsibility.dll</TopNode>
+  <SelectedNode>[0-1012]DesignPatterns.Interpreter</SelectedNode>
   <ExcludeCategories>false</ExcludeCategories>
   <Nodes>
-    <Node UniqueName="[0-1004]D:\project\C#_test\DesignPattern\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.dll" Expanded="true" />
-    <Node UniqueName="[0-1005]DesignPatterns" Expanded="true" />
-    <Node UniqueName="[0-1006]DesignPatterns.HainOfResponsibility" Expanded="true" />
+    <Node UniqueName="[0-1008]D:\project\C#_test\DesignPattern\DesignPattern\DesignPattern\bin\Debug\ChainOfResponsibility.dll" Expanded="true" />
+    <Node UniqueName="[0-1009]DesignPatterns" Expanded="true" />
     <Node UniqueName="[0-1000]DesignPatterns.HainOfResponsibility.ChainOfResponsibility" Expanded="true" />
+    <Node UniqueName="[0-1012]DesignPatterns.Interpreter" Expanded="true" />
+    <Node UniqueName="[0-1006]DesignPatterns.Interpreter.InterpreterTest" Expanded="true" />
   </Nodes>
 </VisualState>
